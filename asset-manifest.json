@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/chit-chat/static/css/main.e7f50d42.css",
+    "main.js": "/chit-chat/static/js/main.d2dd93e7.js",
+    "service-worker.js": "/chit-chat/service-worker.js",
+    "index.html": "/chit-chat/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e7f50d42.css",
+    "static/js/main.d2dd93e7.js"
+  ]
+}
